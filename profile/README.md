@@ -31,14 +31,6 @@ Transaction = [ validate_and_authorize | DeFi instruction | finalize_session ]
 
 Every agent transaction is sandwiched between authorization and finalization. All three succeed atomically or all revert. The agent can execute on any DeFi protocol — Jupiter, Flash Trade, Drift, Marginfi — while the vault owner's policy controls are enforced on-chain.
 
-### Repositories
-
-| Repo | Description |
-|------|-------------|
-| [**sigil**](https://github.com/Sigil-Trade/sigil) | Core Anchor program, TypeScript SDKs (`@usesigil/kit`, `@usesigil/custody`, `@usesigil/plugins`), and 1,800+ tests |
-| [**sigil-dashboard**](https://github.com/Sigil-Trade/sigil-dashboard) | Admin dashboard for vault management, policy configuration, and constraint builder |
-| [**sigil-landing-page**](https://github.com/Sigil-Trade/sigil-landing-page) | Landing page at [sigil.trade](https://sigil.trade) |
-
 ### Key numbers
 
 | Metric | Value |
