@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sigil.trade">
-    <img src="https://raw.githubusercontent.com/Sigil-Trade/.github/main/assets/banner.png" alt="Sigil — Your Agent Trades. Sigil Guards Your Funds." width="100%" />
+    <img src="https://raw.githubusercontent.com/Sigil-Trade/.github/main/assets/X-Banner.png" alt="Sigil — Your Agent Trades. Sigil Guards Your Funds." width="100%" />
   </a>
 </p>
 
